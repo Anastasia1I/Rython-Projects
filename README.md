@@ -1,2 +1,2 @@
-# RythonAnastasia1I
-Password Generator Project
+# Python Projects
+
